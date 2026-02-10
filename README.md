@@ -1,4 +1,4 @@
-# 2026 FDEev: Front End Dev (start here)
+# 2026 FEDev: Front End Dev (start here)
 
 Public notes to support learning of Front End Development with the Svelte JavaScript framework can be found here
 
@@ -35,7 +35,7 @@ These notes support the TU Dublin module *COMP H2037*
   - I made a video Windows git installation walk-through:&nbsp;
     - https://go.screenpal.com/watch/cOn6QTn0etq
 
-- **Exercise 3-5** Practice the "round trip" from a new GitHub repo, to cloning on your coimputer, and then pushing changes back up to GitHub
+- **Exercise 3-5** Practice the "round trip" from a new GitHub repo, to cloning on your computer, and then pushing changes back up to GitHub
   - here is a step-by-step guide to the round trip (1) GitHub repo (2) clone local (3) make local changes (4) created snapshot/commit (5) push back to GitHub:
     - https://github.com/dr-matt-smith/2026-FED-github-round-trip
 
