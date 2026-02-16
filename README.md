@@ -4,16 +4,7 @@ Public notes to support learning of Front End Development with the Svelte JavaSc
 
 These notes support the TU Dublin module *COMP H2037*
 
-## ASSESSMENT resources
-
-Support for the module assessments:
-- https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs
-
-## LAB resources
-
-Support for the module labs:
-- https://github.com/dr-matt-smith/FEDev---labs
-
-
+- [ASSESSMENT resources](https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs)
+- [LAB resources](https://github.com/dr-matt-smith/FEDev---labs)
 
 
