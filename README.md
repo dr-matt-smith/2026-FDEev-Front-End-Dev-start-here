@@ -8,3 +8,6 @@ These notes support the TU Dublin module *COMP H2037*
 - [LAB resources](https://github.com/dr-matt-smith/FEDev---labs)
 
 
+- [other resources](https://github.com/dr-matt-smith/FEDev-Svelte-UI-libraries/tree/main)
+
+  
